@@ -1,9 +1,9 @@
 <h1 align="center">Hola, Soy Carlos Iriarte</h1>
 <h3 align="center">Abogado y Desarrollador de Software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elrincondeisma&label=Profile%20views&color=0e75b6&style=flat" alt="elrincondeisma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlosIriarteConsuegra&label=Profile%20views&color=0e75b6&style=flat" alt="CarlosIriarteConsuegra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elrincondeisma" alt="elrincondeisma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CarlosIriarteConsuegra" alt="CarlosIriarteConsuegra" /></a> </p>
 
 - 🔭 I’m currently working on **psicocrm**
 
