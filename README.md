@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Carlos Iriarte</h1>
-<h3 align="center">Abogado y Desarrollador de Software</h3>
+<h3 align="center">Abogado Conciliador en Derecho, Desarrollador de Software y Especialista en Gerencia de Proyectos (En Curso)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlosIriarteConsuegra&label=Profile%20views&color=0e75b6&style=flat" alt="CarlosIriarteConsuegra" /> </p>
 
